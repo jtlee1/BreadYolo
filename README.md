@@ -34,5 +34,7 @@ Another thing to point out is you can change your [weights] section to continue 
 
 # More info
 Check out https://chtseng.wordpress.com/2018/09/01/%e5%bb%ba%e7%ab%8b%e8%87%aa%e5%b7%b1%e7%9a%84yolo%e8%be%a8%e8%ad%98%e6%a8%a1%e5%9e%8b-%e4%bb%a5%e6%9f%91%e6%a9%98%e8%be%a8%e8%ad%98%e7%82%ba%e4%be%8b/?fbclid=IwAR2xBxavCZe4sH1c_ZmRIud9Jl0Hotu7fXtjomabznsCZcFVnjuyE0nL1nQ
-and https://chtseng.wordpress.com/2018/10/08/%e5%a6%82%e4%bd%95%e5%bf%ab%e9%80%9f%e5%ae%8c%e6%88%90yolo-v3%e8%a8%93%e7%b7%b4%e8%88%87%e9%a0%90%e6%b8%ac/?fbclid=IwAR2uDno8ychQH4e8xQ6S8fKOf-hmKc-BFEI24USSFq_7TM5WsEqKCIe6VGY
+
+and
+https://chtseng.wordpress.com/2018/10/08/%e5%a6%82%e4%bd%95%e5%bf%ab%e9%80%9f%e5%ae%8c%e6%88%90yolo-v3%e8%a8%93%e7%b7%b4%e8%88%87%e9%a0%90%e6%b8%ac/?fbclid=IwAR2uDno8ychQH4e8xQ6S8fKOf-hmKc-BFEI24USSFq_7TM5WsEqKCIe6VGY
 if you want to test out your module without using raspbarry pi.

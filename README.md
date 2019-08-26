@@ -24,7 +24,7 @@ Download darknet from https://pjreddie.com/darknet/
 Remember to change GPU=0 to GPU=1 in the make file before you do "make".  
 
 # Step4
-Train your bot
+Train your bot  
 Follow https://chtseng.wordpress.com/2019/01/25/%e7%89%a9%e4%bb%b6%e5%81%b5%e6%b8%ac%e7%9a%84%e6%87%89%e7%94%a8-diy%e9%9b%bb%e8%85%a6%e8%a6%96%e8%a6%bapos%e7%b5%90%e5%b8%b3%e5%8f%b0/?fbclid=IwAR0ZJxCbceHBtvW7EEEeoqV7q_NdtdIKBOI8Fbl_SjVkV41DCgUXcKMDlbc  
 Make sure you follow all step closely because every detail matters.  
 I will provide a sample so you know where everything is located.  

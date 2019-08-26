@@ -30,6 +30,7 @@ Make sure you follow all step closely because every detail matters.
 I will provide a sample so you know where everything is located.  
 One thing to point out is the way it provid to train my bot doesn't work for me. I use the command  
 "./darknet detector train [obj.data] [yolov3-tiny.cfg] [weights]" instead (fill in the path of your own .data .cfg and weight file)  
+When editing yolov3-tiny-cfg file, need to change the filter on line 171 too.  
 Another thing to point out is you can change your [weights] section to continue trian from your last trial.  
 
 # More info

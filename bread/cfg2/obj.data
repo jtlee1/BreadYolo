@@ -1,0 +1,5 @@
+classes= 9
+train  = /home/dfi/Desktop/bread/cfg2/train.txt
+valid  = /home/dfi/Desktop/bread/cfg2/test.txt
+names = /home/dfi/Desktop/bread/cfg2/obj.names
+backup = /home/dfi/Desktop/bread/cfg2/weights/

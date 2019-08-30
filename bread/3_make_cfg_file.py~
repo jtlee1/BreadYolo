@@ -1,13 +1,13 @@
 import os
 
 #-------------------------------------------------------------
-classes = 2
+classes = 9
 
 #Same with you defined in 1_labels_to_yolo_format.py
-classList = { "croissant":0, "sugar bread": 1 }
+classList = { "croissant":0, "sugar bread": 1, "toast": 2, "baguette": 3, "garlic bread": 4, "doughnut": 5, "sponge cake": 6, "bun": 7, "small croissant": 8 }
 
 folderCharacter = "/"  # \\ is for windows
-cfgFolder = "/home/dfi/Desktop/bread/cfg"
+cfgFolder = "/home/dfi/Desktop/bread/cfg2"
 
 #-------------------------------------------------------------
 

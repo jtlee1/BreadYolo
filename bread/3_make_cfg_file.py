@@ -7,7 +7,7 @@ classes = 9
 classList = { "croissant":0, "sugar bread": 1, "toast": 2, "baguette": 3, "garlic bread": 4, "doughnut": 5, "sponge cake": 6, "bun": 7, "small croissant": 8 }
 
 folderCharacter = "/"  # \\ is for windows
-cfgFolder = "/home/dfi/Desktop/bread/cfg2"
+cfgFolder = "/home/dfi/Desktop/bread/cfg3"
 
 #-------------------------------------------------------------
 

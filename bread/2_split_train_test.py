@@ -4,8 +4,8 @@ import os.path
 
 #---------------------------------------------------------
 testRatio = 0.2
-imageFolder = "/home/dfi/Desktop/bread/yolo2"
-cfgFolder = "/home/dfi/Desktop/bread/cfg2"
+imageFolder = "/home/dfi/Desktop/bread/yolo3"
+cfgFolder = "/home/dfi/Desktop/bread/cfg3"
 folderCharacter = "/"  # \\ is for windows
 #--------------------------------------------------------
 

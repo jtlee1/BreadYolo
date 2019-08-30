@@ -8,9 +8,9 @@ modelType = "yolo-tiny"  #yolo or yolo-tiny
 confThreshold = 0.5  #Confidence threshold
 nmsThreshold = 0.4   #Non-maximum suppression threshold
 
-classesFile = "/home/dfi/Desktop/bread/cfg2/obj.names";
-modelConfiguration = "/home/dfi/Desktop/bread/cfg2/weights/yolov3-tiny.cfg";
-modelWeights = "/home/dfi/Desktop/bread/cfg2/weights/yolov3-tiny_50000.weights";
+classesFile = "/home/dfi/Desktop/bread/cfg3/obj.names";
+modelConfiguration = "/home/dfi/Desktop/bread/cfg3/yolov3-tiny.cfg";
+modelWeights = "/home/dfi/Desktop/bread/cfg3/weights/yolov3-tiny.backup";
 
 displayScreen = True  #Do you want to show the image on LCD?
 outputToFile = False   #output the predicted result to image or video file
